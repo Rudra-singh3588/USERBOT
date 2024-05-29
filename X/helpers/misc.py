@@ -119,10 +119,10 @@ async def create_botlog(client):
     LOGGER("X").info(
         "WAIT A MOMENT MASTER. CURRENTLY CREATING A USERBOT LOG GROUP FOR YOU"
     )
-    desc = "⚡ 𝐋ɛɢɛռɖaʀʏ 𝐎ғ 𝐒αιғβσтƨ ⚡ JOIN @SAIFALLBOT\n\PLEASE DO NOT LEAVE THE GROUP INI.\n\nPowered By ~ @SAIFALLBOT ❤️"
+    desc = "⚡ SUPRA BOTS ⚡ JOIN @moii_contact\n\PLEASE DO NOT LEAVE THE GROUP INI.\n\nPowered By ~ @SAIFALLBOT ❤️"
     try:
         photo = "X/resources/logo.jpg"
-        gruplog = await client.create_supergroup("Dɪᴄᴛᴀᴛᴏʀ UsᴇʀBᴏᴛ", desc)
+        gruplog = await client.create_supergroup("SUPRAXUSERBOT", desc)
         fine = gruplog.id
         await client.set_chat_photo(fine, photo=photo)
         if await in_heroku():

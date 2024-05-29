@@ -1,19 +1,19 @@
 class First:
-    ALIVE = "`𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ 𝐈s 𝐖ᴏʀᴋɪɴɢ`"
+    ALIVE = "`BOT STARTED`"
     REPO = """
-**𝐇EY**, __I AM USING__ ✨ **𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ** ✨
+**𝐇EY**, __I AM USING__ ✨ **SUPRA BOT** ✨
 
 ✣ **𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ :** `{}`
-✣ **𝐒ʋρρσят :** [⚡ 𝐒αιғβσтƨ ⚡](t.me/SAIFALLBOT)
-✣ **𝐂нαииɛℓ :** [Ɖιcтαтσя](t.me/DEAD_GRPCHAT)
-✣ **𝐎ωиɛя  :** [𝐃ᴇᴠᴇʟᴏᴘᴇʀ](t.me/SAIF_SICTATOR)
-✣ **𝐑ɛρσ :** [𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ](https://github.com/SAIFDEAD/SERBOT)
+✣ **𝐒ʋρρσят :** [⚡ SUPRA ⚡](t.me/supra&bots)
+✣ **𝐂нαииɛℓ :** [SUPRA](t.me/moii_contact)
+✣ **𝐎ωиɛя  :** [RUDRA SINGH](t.me/rudra_rajput_ll)
+✣ **𝐑ɛρσ :** [REPO]("khud ka bna le")
 
 
-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 [𝚂𝙰𝙸𝙵](https://github.com/SAIFDEAD/USERBOT)"""
-    CREATOR = '𝐈 𝐰𝐚𝐬 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐦𝐲 𝐦𝐚𝐬𝐭𝐞𝐫 <a href="https://github.com/SAIFDEAD/USERBOT">𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ</a> 𝐨𝐧 𝐚 𝐫𝐚𝐢𝐧𝐲 𝐝𝐚𝐲.'
+𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 [𝚂upra](https://github.com/Rudra-singh3587/USERBOT)"""
+    CREATOR = '𝐈 𝐰𝐚𝐬 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐦𝐲 𝐦𝐚𝐬𝐭𝐞𝐫 <a href="https://github.com/Rudra-singh3587/USERBOT">𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ</a> 𝐨𝐧 𝐚 𝐫𝐚𝐢𝐧𝐲 𝐝𝐚𝐲.'
     MSG_ON = """
-🐣 **𝐃𝐢𝐜𝐭𝐚𝐭𝐨𝐫 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐀𝐜𝐭𝐢𝐯𝐚𝐭𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲** 🐣
+🐣 **supra 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐀𝐜𝐭𝐢𝐯𝐚𝐭𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲** 🐣
 ━━
 ➠ **𝐔ƨɛявσт 𝐕ɛяƨισи -** `{}`
 ➠ **𝐓ʏρɛ** `{}𝐩𝐢𝐧𝐠` **𝐭𝐨 𝐜𝐡𝐞𝐜𝐤 𝐁𝐨𝐭**

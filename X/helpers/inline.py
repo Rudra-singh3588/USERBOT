@@ -54,7 +54,7 @@ def cb_wrapper(func):
         users = list_users
         if cb.from_user.id not in users:
             await cb.answer(
-                "𝐘𝐚𝐡𝐚𝐡𝐚𝐡𝐚 𝐘𝐨𝐮 𝐜𝐚𝐧'𝐭 𝐝𝐨 𝐢𝐭 𝐢𝐟 𝐲𝐨𝐮 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐬𝐞𝐞 𝐢𝐭 𝐚𝐧𝐝 𝐦𝐚𝐤𝐞 𝐢𝐭 𝐲𝐨𝐮𝐫𝐬𝐞𝐥𝐟 𝐃𝐢𝐜𝐭𝐚𝐭𝐨𝐫 𝐔𝐬𝐞𝐫𝐛𝐨𝐭",
+                "𝐘𝐚𝐡𝐚𝐡𝐚𝐡𝐚 𝐘𝐨𝐮 𝐜𝐚𝐧'𝐭 𝐝𝐨 𝐢𝐭 𝐢𝐟 𝐲𝐨𝐮 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐬𝐞𝐞 𝐢𝐭 𝐚𝐧𝐝 𝐦𝐚𝐤𝐞 𝐢𝐭 𝐲𝐨𝐮𝐫𝐬𝐞𝐥𝐟 SUPRAXUSERBOT",
                 cache_time=0,
                 show_alert=True,
             )
@@ -84,9 +84,9 @@ def inline_wrapper(func):
                 results=[
                     (
                         InlineQueryResultArticle(
-                            title="𝐒𝐨𝐫𝐫𝐲, 𝐘𝐨𝐮 𝐌𝐮𝐬𝐭 𝐁𝐞 𝐀 𝐒𝐮𝐝𝐨 𝐔𝐬𝐞𝐫 𝐓𝐨 𝐔𝐬𝐞 𝐌𝐞!",
+                            title="SUDO LEKR AA 😗",
                             input_message_content=InputTextMessageContent(
-                                "𝐎𝐫 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐦𝐚𝐤𝐞 𝐢𝐭 𝐲𝐨𝐮𝐫𝐬𝐞𝐥𝐟 𝐚𝐭 @SAIFALLBOT"
+                                "𝐎𝐫 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐦𝐚𝐤𝐞 𝐢𝐭 𝐲𝐨𝐮𝐫𝐬𝐞𝐥𝐟 𝐚𝐭 @rudra_singh_ll"
                             ),
                         )
                     )

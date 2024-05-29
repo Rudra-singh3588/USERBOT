@@ -11,15 +11,15 @@ from X.helpers.misc import create_botlog, heroku
 BOT_VER = "3.0.0"
 CMD_HANDLER = ["." "?" "!" "*"]
 MSG_ON = """
-✧✧ **𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ 𝐈s 𝐀ʟɪᴠᴇ** ✧✧
+✧✧ LETS GO 😗
 ▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 
-➥ **𝐃ɪᴄᴛᴀᴛᴏʀ 𝐕ᴇʀsɪᴏɴ 🥀 ** `{}`
-➥ **𝐓ʏᴘᴇ** **.alive** **𝐓ᴏ 𝐂ʜᴇᴄᴋ 𝐀ʟɪᴠᴇ 𝐎ғ 𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ**
+➥ HELLO HELLO 🥀 ** `{}`
+➥ BOT STARTED
 ▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
-➥ 𝐎ᴡɴᴇʀ :- @SAIF_DICTATOR
-➥ 𝐆ʀᴘ :- @DEAD_GRPCHAT
-➥ 𝐂ʜᴀɴ :- @SAIFALLBOT
+➥ 𝐎ᴡɴᴇʀ :- @rudra_rajput_ll
+➥ 𝐆ʀᴘ :- @supra_bots
+➥ 𝐂ʜᴀɴ :- @moii_contact
 ▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 """
 
@@ -50,7 +50,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("X").info("𝐷𝛪𝐶𝛵𝛥𝛵𝛩𝛤 𝑈𝑆𝛴𝛤𝛣𝛩𝛵 𝛪𝑆 𝑆𝛹𝛥𝛤𝛵𝛴𝐷 ✨")
+    LOGGER("X").info("SUPRA USERBOT STARTED✨")
     install()
     heroku()
     LOOP.run_until_complete(main())

@@ -4,21 +4,22 @@ from X.powers import get_id
 
 hl = "."
 pm_watcher = 5
-PM_PIC = "https://telegra.ph/file/d18514b209f6cca4b1ae0.jpg"
+PM_PIC = "https://telegra.ph/file/b158ac35348e622a3d299.jpg"
 
 TEXT = """
-•            **[𝐌ᴀᴋᴇ 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽](https://github.com/SAIFDEAD/USERBOT)**
-➥ **𝐌ᴀꜱᴛᴇʀ** » {}
-• **𝐓ʜɪs 𝐈s 𝐃ɪᴄᴛᴀᴛᴏʀ 𝐔sᴇʀ𝐁ᴏᴛ 𝐏ᴍ 𝐏ʀᴏᴛᴇᴄᴛɪᴏɴ 🛡️**
-▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭ 
-    **ʜᴇʏ ** 🥀
-    **ɪғ ʏᴏᴜ sᴘᴀᴍ ʜᴇʀᴇ ᴡɪᴛʜᴏᴜᴛ ᴍʏ**
-    **ᴍᴀꜱᴛᴇʀ's ᴀᴘᴘʀᴏᴠᴀʟ ʏᴏᴜ ᴡɪʟʟ ʙᴇ**
+•            **[MAKE BOT]"NO REPO😔"**
+➥ **OWNER** » {}
+• **DO NOT DISTURB **
+
+    **USER
+    **WITHOUT APPROVE YOU WILL BLOCKED **
+    **AFTER YOUR 5TH MESSAGE**
     **ʙʟᴏᴄᴋᴇᴅ** 
-   ➣ **ᴡᴀʀɴ ʟɪᴍɪᴛs** » {}      
-   ❍ **ʏᴏᴜʀ ᴡᴀʀɴs** » {}
+   🔥 **ᴡᴀʀɴ ʟɪᴍɪᴛs** » {}      
+   🔥 **ʏᴏᴜʀ ᴡᴀʀɴs** » {}
 ▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
-•           **[𝐒ᴜᴘᴘᴏʀᴛ](https://t.me/SAIFALLBOT)**
+•           **[CHANNEL](https://t.me/moii_contact)**
+**[OWNER](https://t.me/Rudra_rajput_l)**
 """
 @Client.on_message(filters.command("pmpermit", hl) & filters.me)
 async def pmpermit(client, message):
